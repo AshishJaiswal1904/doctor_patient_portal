@@ -20,6 +20,6 @@ Admin Panel
 
 Create appointments/ delete appointments
 
-More you find yourselt 😉
+More you find yourself 😉
 
 
